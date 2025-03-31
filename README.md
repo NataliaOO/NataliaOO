@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/NataliaOO/NataliaOO/blob/main/avavpasi-36.gif" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=System.out.println(%22Hello+World%22);I'm+Natalia%2C+a+Backend+Developer+%7C+Spring+%26+Cloud+%E2%9C%A9" width="70%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=System.out.println(%22Hello+World%22);I'm+Natalia%2C+a+Backend+Developer+%7C+Spring+%26+Cloud+%E2%9C%A9" width="100%" />
 <br><br>
 <pre>
     💻 Core: Java/Kotlin • Spring Boot • Hibernate
@@ -20,7 +20,6 @@
       <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NataliaOO's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NataliaOO&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
     </a>
-    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
   </p>
     
 [![](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NataliaOO)
