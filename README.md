@@ -1,20 +1,20 @@
 <div align="center">
-<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="25%" align="right" /> <!-- Java logo -->
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=007396&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+World;I'm+Natalia%2C+Java+Developer+%7C+Spring+Enthusiast+%E2%9C%A8" width="70%" />
 <br><br>
 <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💼 Java Developer • Backend Engineer
+    💻 Java • Spring Boot • Hibernate • Docker
+    📖 Microservices • Cloud Technologies • SQL
+    🎮 Tech meetups • Coffee • Hiking • Photography
+    ☕ Proud member of Java community since 2020
 </pre>
 <br><br>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGt1N2p6aHh6b3l5b2NtNnB6aXQ5Z3l1dW5yN2V2eG5ta3Ryb3h0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o85xnoYXebUhbM7Y4/giphy.gif" height="40" /> <!-- Coffee gif -->
 <br><br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
-[![](https://img.shields.io/badge/mastodon-6364ff)](https://tech.lgbt/@innng)
-[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/4606212)
-[![](https://img.shields.io/badge/enka.network-69899c)](https://enka.network/u/Inng/1A4HU1/10000069/1985924/)
+
+[![](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin)](https://linkedin.com/in/your-profile)
+[![](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NataliaOO)
+[![](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)](https://leetcode.com/your-profile)
+[![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/your-nickname)
 </div>
