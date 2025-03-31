@@ -15,7 +15,13 @@
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 
-[![Natalia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NataliaOO&show_icons=true&theme=vue&hide=issues)](https://github.com/NataliaOO)
+  <p>
+    <a href="https://github.com/NataliaOO/github-readme-streak-stats">
+      <!-- Use https://streak-stats.demolab.com or self-host with your own Vercel app - visit https://git.io/streak-stats for instructions -->
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NataliaOO's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=NataliaOO&theme=monokai-metallian&hide_border=true&short_numbers=true"/>
+    </a>
+    <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
+  </p>
     
 [![](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NataliaOO)
 [![](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)](https://leetcode.com/your-profile)
