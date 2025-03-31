@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/NataliaOO/NataliaOO/blob/main/avavpasi-36.gif" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=System.out.println(%22Hello+World%22);I'm+Natalia%2C+a+Backend+Developer+%7C+Spring+%26+Cloud+%E2%9C%A9" width="90%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=System.out.println(%22Hello+World%22);I'm+Natalia%2C+a+Backend+Developer+%7C+Spring+%26+Cloud+%E2%9C%A9" width="80%" />
 <br><br>
 <pre>
     💻 Core: Java/Kotlin • Spring Boot • Hibernate
