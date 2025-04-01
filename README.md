@@ -27,5 +27,5 @@
     
 [![](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NataliaOO)
 [![](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode)](https://leetcode.com/your-profile)
-[![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/@otuzovanatalia)
+[![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/otuzovanatalia)
 </div>
