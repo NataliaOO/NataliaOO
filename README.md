@@ -28,4 +28,5 @@
 [![](https://img.shields.io/badge/GitHub-181717?logo=github)](https://github.com/NataliaOO)
 [![](https://img.shields.io/badge/Stepik-EA4C89?style=flat&logo=stepik&logoColor=white)](https://stepik.org/users/19854775/profile)
 [![](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram)](https://t.me/otuzovanatalia)
+[![](https://img.shields.io/badge/Leetcode-062332?logo=leetcode)](https://leetcode.com/u/MishkaPadi/)
 </div>
